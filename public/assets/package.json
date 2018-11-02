@@ -1,0 +1,13 @@
+{
+  "name": "wasp2.0",
+  "version": "1.0.0",
+  "description": "wasp 2.0 ui ",
+  "main": "index.js",
+  "author": "oliver newman <olivernewman@users.noreply.github.com>",
+  "license": "proprietary",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1"
+  }
+}
